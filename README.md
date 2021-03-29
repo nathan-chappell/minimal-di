@@ -9,7 +9,7 @@ Also, see comments for more details!
 
 ## Usage:
 
-```
+```js
 const DependencyInjector = require('./di.js');
 
 // DEMO
